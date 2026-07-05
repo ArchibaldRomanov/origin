@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Lesson 1\\Task 1\\Kod\\",
+  "WorkspaceRootPath": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Kod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2429E377-208F-480A-A657-76912E4CDF29}|Kod.vcxproj|C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Lesson 1\\Task 1\\Kod\\Kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2429E377-208F-480A-A657-76912E4CDF29}|Kod.vcxproj|C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Kod\\Kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2429E377-208F-480A-A657-76912E4CDF29}|Kod.vcxproj|solutionrelative:Kod.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2429E377-208F-480A-A657-76912E4CDF29}|Kod.vcxproj|C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Kod\\ZC1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2429E377-208F-480A-A657-76912E4CDF29}|Kod.vcxproj|solutionrelative:ZC1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +26,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZC1.cpp",
+              "DocumentMoniker": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Kod\\ZC1.cpp",
+              "RelativeDocumentMoniker": "ZC1.cpp",
+              "ToolTip": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Kod\\ZC1.cpp",
+              "RelativeToolTip": "ZC1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-05T11:04:12.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Kod.cpp",
-              "DocumentMoniker": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Lesson 1\\Task 1\\Kod\\Kod.cpp",
+              "DocumentMoniker": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Kod\\Kod.cpp",
               "RelativeDocumentMoniker": "Kod.cpp",
-              "ToolTip": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Lesson 1\\Task 1\\Kod\\Kod.cpp*",
-              "RelativeToolTip": "Kod.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yanas\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ProProg\\Kod\\Kod.cpp",
+              "RelativeToolTip": "Kod.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-07-05T09:58:08.607Z",
               "EditorCaption": ""
